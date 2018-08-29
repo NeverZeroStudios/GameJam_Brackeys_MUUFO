@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e13afe14d21d174e95210377dd6d65c, type: 3}
+  m_Name: Planet Info
+  m_EditorClassIdentifier: 
+  scale: {x: 1, y: 1, z: 1}
+  minSize: {x: 90, y: 90, z: 90}
+  maxSize: {x: 100, y: 100, z: 100}
+  speed: 3
+  duration: 50
+  repeatable: 1
+  planetMaterial: {fileID: 0}
+  gravity: -9.81
